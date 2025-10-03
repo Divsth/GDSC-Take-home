@@ -2,10 +2,10 @@
 
 
 
-Instructions to Launch Webpage:
+Instructions to Launch Webpage Locally:
 
 1. Download the ```my-app``` folder
-2. Run the following commands while in the folder directory to host locally:
+2. Run the following commands in the folder's directory:
 
 
 ```
